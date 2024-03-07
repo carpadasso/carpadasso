@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carpadasso! =)
 - 👀 I’m interested in Science Computer and Games.
-- 🌱 I’m currently learning Data Structures and Strings.
+- 🌱 I’m currently learning Binary Trees and Strings.
 
 <!---
 carpadasso/carpadasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
