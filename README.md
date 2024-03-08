@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carpadasso! =)
-- 👀 I’m interested in Science Computer and Games.
+- 👀 I’m interested in Computer Science and Games.
 - 🌱 I’m currently learning Binary Trees and Strings.
 
 <!---
