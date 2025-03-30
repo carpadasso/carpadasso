@@ -3,6 +3,14 @@ Olá, me chamo Leonardo e atualmente estou me graduando em Ciência da Computaç
 
 Também tenho [minha página social aqui do Github](https://carpadasso.github.io)! Quem sabe não vale dar uma olhada nela? ;)
 
+# 📒 Atualmente Estudando...
+- Processamento de Imagens
+- Deep Learning
+- Sistemas Operacionais
+- Problemas de Otimização && Programação Linear
+- Grafos e Algoritmos Relacionados
+- Redes de Computadores (Camadas Físicas e Enlace)
+
 # Áreas de Interesse
 ## 🤖 Aprendizado de Máquina
 Consiste em desenvolver algoritmos que aprendam com um certo conjunto de dados e generalizem para dados fora desse conjunto de aprendizado. Exemplos de uso são reconhecedores de características (biometria, por exemplo), previsão do tempo, filtro de emails (famoso SPAM...), etc. Envolve muito o uso de Álgebra Linear e Estatística. Vale destacar que existe uma área dentro do Aprendizado de Máquina chamado **Deep Learning (Aprendizado Profundo)**, que usa técnicas mais avançadas de aprendizado, como redes neurais.
@@ -18,11 +26,3 @@ Propõe a encontrar material de uma natureza não estruturada (tipo texto) que s
 
 ## 📸 Visão Computacional
 Trata sobre analisar, extrair informação e desenvolver algoritmos relacionados à imagens. Alguns exemplos são o OCR (Optical Character Recognition) - reconhece caracteres em uma imagem, a medicina - não à toa existe um curso de graduação inteiro para essa área, construção de modelos tridimensionais, reconhecimento de características de veículos (cor do veículo, tipo, marca/modelo), etc. Bebe e muito da fonte do Aprendizado de Máquina.
-
-# 📒 Atualmente Estudando...
-- Processamento de Imagens
-- Deep Learning
-- Sistemas Operacionais
-- Problemas de Otimização && Programação Linear
-- Grafos e Algoritmos Relacionados
-- Redes de Computadores (Camadas Físicas e Enlace)
