@@ -1,7 +1,7 @@
 # 👋 Boas Vindas ao meu Perfil!
 Olá, me chamo Leonardo e atualmente estou me graduando em Ciência da Computação na Universidade Federal do Paraná.
 
-Também tenho ![minha página social aqui do Github](https://carpadasso.github.io)! Quem sabe não vale dar uma olhada nela? ;)
+Também tenho [minha página social aqui do Github](https://carpadasso.github.io)! Quem sabe não vale dar uma olhada nela? ;)
 
 # Áreas de Interesse
 ## 🤖 Aprendizado de Máquina
