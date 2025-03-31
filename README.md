@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img-perfil.png" alt="imagem-perfil.jpg" width="600"/>
+</p>
+
 # 👋 Boas Vindas ao meu Perfil!
 Olá, me chamo Leonardo e atualmente estou me graduando em Ciência da Computação na Universidade Federal do Paraná.
 
